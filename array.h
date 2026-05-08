@@ -33,7 +33,7 @@ public:
     T&       back();
     const T& back() const;
 
-    T*       data();
+    T* data();
     const T* data() const;
 
     // =================== Capacity ================================
